@@ -1,0 +1,69 @@
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\obj\Debug\WinFormsHarkka.csprojAssemblyReference.cache
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\obj\Debug\WinFormsHarkka.Form1.resources
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\obj\Debug\WinFormsHarkka.Properties.Resources.resources
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\obj\Debug\WinFormsHarkka.csproj.GenerateResource.cache
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\bin\Debug\WinFormsHarkka.exe.config
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\bin\Debug\WinFormsHarkka.exe
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\bin\Debug\WinFormsHarkka.pdb
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\obj\Debug\WinFormsHarkka.exe
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\obj\Debug\WinFormsHarkka.pdb
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\bin\Debug\Npgsql.dll
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\bin\Debug\Npgsql.xml
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\obj\Debug\WinFormsHarkka.csproj.CopyComplete
+C:\Users\k1901143\OneDrive - Epedu O365\Tietorakenteet ja algoritmit D\WinFormsHarkka\obj\Debug\WinFormsHarkka.csproj.CoreCompileInputs.cache
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\bin\Debug\WinFormsHarkka.exe.config
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\bin\Debug\WinFormsHarkka.exe
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\bin\Debug\WinFormsHarkka.pdb
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\bin\Debug\Npgsql.dll
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\bin\Debug\Npgsql.xml
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.csprojResolveAssemblyReference.cache
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.Form1.resources
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.Properties.Resources.resources
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.csproj.GenerateResource.cache
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.csproj.CoreCompileInputs.cache
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.csproj.CopyComplete
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.exe
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.pdb
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\bin\Debug\fi-FI\WinFormsHarkka.resources.dll
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.Form1.fi-FI.resources
+C:\Users\Jouko\Desktop\WinFormsHarkka\WinFormsHarkka\obj\Debug\fi-FI\WinFormsHarkka.resources.dll
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\bin\Debug\WinFormsHarkka.exe.config
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\bin\Debug\WinFormsHarkka.exe
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\bin\Debug\WinFormsHarkka.pdb
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\bin\Debug\fi-FI\WinFormsHarkka.resources.dll
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\bin\Debug\Npgsql.dll
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\bin\Debug\Npgsql.xml
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.csprojAssemblyReference.cache
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.Form1.resources
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.Properties.Resources.resources
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.Form1.fi-FI.resources
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.csproj.GenerateResource.cache
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.csproj.CoreCompileInputs.cache
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\obj\Debug\fi-FI\WinFormsHarkka.resources.dll
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.csproj.CopyComplete
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.exe
+C:\Users\k1901143\OneDrive - Epedu O365\WinFormsHarkka_2019_12_12\WinFormsHarkka\WinFormsHarkka\obj\Debug\WinFormsHarkka.pdb
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\bin\Debug\WinFormsHarkka.exe.config
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\bin\Debug\WinFormsHarkka.exe
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\bin\Debug\WinFormsHarkka.pdb
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\bin\Debug\fi-FI\WinFormsHarkka.resources.dll
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\bin\Debug\Npgsql.dll
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\bin\Debug\Npgsql.xml
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\obj\Debug\WinFormsHarkka.csprojResolveAssemblyReference.cache
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\obj\Debug\WinFormsHarkka.Form1.resources
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\obj\Debug\WinFormsHarkka.Properties.Resources.resources
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\obj\Debug\WinFormsHarkka.Form1.fi-FI.resources
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\obj\Debug\WinFormsHarkka.csproj.GenerateResource.cache
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\obj\Debug\WinFormsHarkka.csproj.CoreCompileInputs.cache
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\obj\Debug\fi-FI\WinFormsHarkka.resources.dll
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\obj\Debug\WinFormsHarkka.csproj.CopyComplete
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\obj\Debug\WinFormsHarkka.exe
+C:\Users\Jouko\Desktop\WinFormsHarkka 12.12.2019\WinFormsHarkka\obj\Debug\WinFormsHarkka.pdb
